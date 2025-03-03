@@ -22,7 +22,7 @@ The model achieves a reasonable accuracy in predicting house prices.
 🚀 How to Run
 1️⃣ Clone the repository:
 
-git clone <your-repo-url>
+git clone <your-repo-urlhttps://github.com/Prasanth89003/SCT_ML_1.git>
 2️⃣ Open the SCT_ML_1.ipynb file in Google Colab.
 3️⃣ Run the cells to train and test the model.
 
